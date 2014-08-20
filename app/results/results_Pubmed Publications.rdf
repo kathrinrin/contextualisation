@@ -1,0 +1,1696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns2="http://bio2rdf.org/pubmed_vocabulary:"
+   xmlns:ns3="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21843921">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_14"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_16"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_4"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-16</ns2:article_date>
+    <ns2:publication_type>RandomizedControlledTrial</ns2:publication_type>
+    <ns3:title>Surgery following neoadjuvant therapy in patients with HER2-positive locally advanced or inflammatory breast cancer participating in the NeOAdjuvant Herceptin (NOAH) study.</ns3:title>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_AUTHOR_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_10"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:copyright_information>Copyright Â© 2011 Elsevier Ltd. All rights reserved.</ns2:copyright_information>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_AUTHOR_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_21"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_AUTHOR_12"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_CHEMICAL_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_AUTHOR_1"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_CHEMICAL_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_19"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_AUTHOR_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_15"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_CHEMICAL_4"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_6"/>
+    <ns2:publication_type>ClinicalTrial,PhaseIII</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_17"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_AUTHOR_2"/>
+    <ns2:affiliation>NN Petrov Research Institute of Oncology, St. Petersburg Oncology, 68, Leningradskaya Str. Pesochny-2, St. Petersburg, Russian Federation, Russia. ssemiglazov@mail.ru</ns2:affiliation>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_5"/>
+    <ns2:owner>NLM</ns2:owner>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_12"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_AUTHOR_3"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_AUTHOR_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_7"/>
+    <rdfs:label>Surgery following neoadjuvant therapy in patients with HER2-positive locally advanced or inflammatory breast cancer participating in the NeOAdjuvant Herceptin (NOAH) study. [pubmed:21843921]</rdfs:label>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_AUTHOR_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_9"/>
+    <ns2:publication_type>ComparativeStudy</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_AUTHOR_6"/>
+    <ns2:publication_type>MulticenterStudy</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_20"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_AUTHOR_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_18"/>
+    <ns3:identifier>pubmed:21843921</ns3:identifier>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_CHEMICAL_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_AUTHOR_5"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_JOURNAL"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843921_MESH_HEADING_8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21825266">
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_AUTHOR_2"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-08</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_9"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_7"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_AUTHOR_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_18"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_11"/>
+    <ns3:title>Inflammation and behavioral symptoms after breast cancer treatment: do fatigue, depression, and sleep disturbance share a common underlying mechanism?</ns3:title>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_CHEMICAL_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_8"/>
+    <rdfs:label>Inflammation and behavioral symptoms after breast cancer treatment: do fatigue, depression, and sleep disturbance share a common underlying mechanism? [pubmed:21825266]</rdfs:label>
+    <ns3:identifier>pubmed:21825266</ns3:identifier>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_19"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_5"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_17"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_20"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_CHEMICAL_2"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_CHEMICAL_5"/>
+    <ns2:affiliation>University of California, Los Angeles, Department of Psychology, 1285 Franz Hall, Los Angeles, CA 90095-1563, USA. jbower@ucla.edu</ns2:affiliation>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:publication_type>ResearchSupport,N.I.H.,Extramural</ns2:publication_type>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_AUTHOR_1"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_CHEMICAL_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_AUTHOR_6"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_16"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_AUTHOR_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_12"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_JOURNAL"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_CHEMICAL_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_AUTHOR_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_15"/>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_GRANT_2"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_1"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:other_id>PMC3179252 [Available on 09/10/12]</ns2:other_id>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:other_id_source>NLM</ns2:other_id_source>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_MESH_HEADING_10"/>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21825266_GRANT_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21816871">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_11"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_2"/>
+    <ns2:affiliation>Graduate School of Health Sciences, Hiroshima University, 1-2-3 Kasumi, Minami-ku, Hiroshima 734-8551, Japan.</ns2:affiliation>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_9"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_ABSTRACT"/>
+    <ns3:title>Relationships between roles and mental states and role functional QOL in breast cancer outpatients.</ns3:title>
+    <ns3:language>eng</ns3:language>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_JOURNAL"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_AUTHOR_3"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_10"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-04</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_1"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns3:identifier>pubmed:21816871</ns3:identifier>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_AUTHOR_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_AUTHOR_2"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <rdfs:label>Relationships between roles and mental states and role functional QOL in breast cancer outpatients. [pubmed:21816871]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_12"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21816871_MESH_HEADING_8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21868187">
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_15"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_4"/>
+    <ns2:publication_type>RandomizedControlledTrial</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_5"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_AUTHOR_3"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_11"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-24</ns2:article_date>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_AUTHOR_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_19"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:publication_type>ClinicalTrial,PhaseI</ns2:publication_type>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_9"/>
+    <ns3:identifier>pubmed:21868187</ns3:identifier>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_18"/>
+    <ns2:publication_type>ComparativeStudy</ns2:publication_type>
+    <ns2:affiliation>WINS Research Team, Winchester and Andover Breast Unit, Royal Hampshire County Hospital, Winchester SO22 5DG, United Kingdom. barbara.parry@wehct.nhs.uk</ns2:affiliation>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_6"/>
+    <ns2:copyright_information>Copyright Â© 2011 Elsevier Ltd. All rights reserved.</ns2:copyright_information>
+    <ns3:title>Dramatic dietary fat reduction is feasible for breast cancer patients: Results of the randomised study, WINS (UK) - stage 1.</ns3:title>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_AUTHOR_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_16"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_JOURNAL"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_2"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_17"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_7"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_12"/>
+    <ns2:owner>NLM</ns2:owner>
+    <rdfs:label>Dramatic dietary fat reduction is feasible for breast cancer patients: Results of the randomised study, WINS (UK) - stage 1. [pubmed:21868187]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868187_MESH_HEADING_10"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21777390">
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_CHEMICAL_12"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_17"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_20"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_22"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_15"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_CHEMICAL_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_6"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_CHEMICAL_9"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_AUTHOR_1"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_16"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_CHEMICAL_8"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_CHEMICAL_1"/>
+    <ns2:affiliation>Department of Clinical Biochemistry, Cancer Research Laboratory, School of Medical Science, Tarbiat Modares University, Tehran, Iran.</ns2:affiliation>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_CHEMICAL_10"/>
+    <ns3:identifier>pubmed:21777390</ns3:identifier>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_CHEMICAL_11"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_12"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_19"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_CHEMICAL_2"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_CHEMICAL_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_3"/>
+    <ns2:copyright_information>Â© 2011 The Authors Journal compilation Â© 2011 FEBS.</ns2:copyright_information>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_AUTHOR_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_11"/>
+    <ns3:title>Cyclic GMP induced apoptosis via protein kinase G in oestrogen receptor-positive and -negative breast cancer cell lines.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_4"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_18"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_CHEMICAL_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_21"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_CHEMICAL_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_9"/>
+    <ns2:owner>NLM</ns2:owner>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <rdfs:label>Cyclic GMP induced apoptosis via protein kinase G in oestrogen receptor-positive and -negative breast cancer cell lines. [pubmed:21777390]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_1"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-16</ns2:article_date>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_JOURNAL"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_10"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_AUTHOR_3"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_AUTHOR_2"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_CHEMICAL_4"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21777390_MESH_HEADING_8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21854827">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_MESH_HEADING_1"/>
+    <ns2:publication_type>ComparativeStudy</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_MESH_HEADING_6"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_MESH_HEADING_12"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_CHEMICAL_2"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-10</ns2:article_date>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_AUTHOR_3"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_CHEMICAL_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_MESH_HEADING_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_MESH_HEADING_9"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:copyright_information>Copyright Â© 2011 Elsevier Ireland Ltd. All rights reserved.</ns2:copyright_information>
+    <ns3:identifier>pubmed:21854827</ns3:identifier>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_AUTHOR_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_AUTHOR_5"/>
+    <ns2:affiliation>Endocrine Toxicology, Institute for Risk Assessment Sciences, Utrecht University, Yalelaan 2, PO Box 80177, 3508 TD, Utrecht University, Utrecht, The Netherlands. m.vanduursen@uu.nl</ns2:affiliation>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_MESH_HEADING_10"/>
+    <ns3:language>eng</ns3:language>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_ABSTRACT"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_AUTHOR_1"/>
+    <rdfs:label>Genistein induces breast cancer-associated aromatase and stimulates estrogen-dependent tumor cell growth in in vitro breast cancer model. [pubmed:21854827]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_MESH_HEADING_4"/>
+    <ns3:title>Genistein induces breast cancer-associated aromatase and stimulates estrogen-dependent tumor cell growth in in vitro breast cancer model.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_MESH_HEADING_11"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_MESH_HEADING_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_MESH_HEADING_7"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_MESH_HEADING_2"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_JOURNAL"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_CHEMICAL_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21854827_AUTHOR_2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21849243">
+    <rdfs:label>Prevention of seroma formation after axillary dissection in breast cancer: a systematic review. [pubmed:21849243]</rdfs:label>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_JOURNAL"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_CHEMICAL_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_12"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_8"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_18"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_11"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_13"/>
+    <ns3:identifier>pubmed:21849243</ns3:identifier>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_ABSTRACT"/>
+    <ns3:title>Prevention of seroma formation after axillary dissection in breast cancer: a systematic review.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_16"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_AUTHOR_3"/>
+    <ns2:copyright_information>Copyright Â© 2011 Elsevier Ltd. All rights reserved.</ns2:copyright_information>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_15"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_AUTHOR_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_AUTHOR_1"/>
+    <ns2:publication_type>Review</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_6"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_17"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_2"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-17</ns2:article_date>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_4"/>
+    <ns2:affiliation>Department of Surgery, Leiden University Medical Centre, The Netherlands. xander2@hotmail.com</ns2:affiliation>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_9"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849243_MESH_HEADING_5"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21875573">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_5"/>
+    <ns2:publication_type>ResearchSupport,U.S.Gov't,Non-P.H.S.</ns2:publication_type>
+    <ns3:identifier>pubmed:21875573</ns3:identifier>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_8"/>
+    <rdfs:label>Delayed cell cycle progression from SEPW1 depletion is p53- and p21-dependent in MCF-7 breast cancer cells. [pubmed:21875573]</rdfs:label>
+    <ns2:copyright_information>Published by Elsevier Inc.</ns2:copyright_information>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_3"/>
+    <ns3:title>Delayed cell cycle progression from SEPW1 depletion is p53- and p21-dependent in MCF-7 breast cancer cells.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_13"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_12"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_6"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_CHEMICAL_3"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_AUTHOR_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_7"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_CHEMICAL_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_AUTHOR_2"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_JOURNAL"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_2"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_CHEMICAL_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_1"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_CHEMICAL_6"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_CHEMICAL_1"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_CHEMICAL_7"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-23</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_MESH_HEADING_9"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_CHEMICAL_5"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21875573_ABSTRACT"/>
+    <ns2:affiliation>USDA Agricultural Research Service, Western Human Nutrition Research Center, University of California at Davis, 430 West Health Science Drive, Davis, CA 95616, USA. wayne.hawkes@ars.usda.gov</ns2:affiliation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21862407">
+    <ns2:owner>NLM</ns2:owner>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_5"/>
+    <ns2:databank>ClinicalTrials.gov</ns2:databank>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_5"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_20"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-19</ns2:article_date>
+    <ns2:copyright_information>Copyright Â© 2011 Elsevier Ltd. All rights reserved.</ns2:copyright_information>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_3"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_11"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_23"/>
+    <ns2:publication_type>MulticenterStudy</ns2:publication_type>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_12"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_28"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_1"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_7"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_9"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_9"/>
+    <ns3:identifier>pubmed:21862407</ns3:identifier>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_6"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_JOURNAL"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_15"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_6"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_2"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_25"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_3"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_1"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_6"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_27"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_7"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_29"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_19"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:publication_type>ClinicalTrial,PhaseII</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_12"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_11"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_10"/>
+    <rdfs:label>Olaparib in patients with recurrent high-grade serous or poorly differentiated ovarian carcinoma or triple-negative breast cancer: a phase 2, multicentre, open-label, non-randomised study. [pubmed:21862407]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_18"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_15"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_26"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_16"/>
+    <ns2:affiliation>BC Cancer Agency, Vancouver, Canada. kgelmon@bccancer.bc.ca</ns2:affiliation>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_4"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_4"/>
+    <ns3:title>Olaparib in patients with recurrent high-grade serous or poorly differentiated ovarian carcinoma or triple-negative breast cancer: a phase 2, multicentre, open-label, non-randomised study.</ns3:title>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_13"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_12"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_22"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_17"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_AUTHOR_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_24"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_CHEMICAL_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_14"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_21"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862407_MESH_HEADING_8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21843920">
+    <ns2:publication_type>EvaluationStudies</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_9"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-16</ns2:article_date>
+    <ns2:affiliation>Department of Surgical Oncology, Jean Perrin Comprehensive Cancer Centre, 58 rue Montalembert, 63011, Clermont-Ferrand, Cedex 1, France.</ns2:affiliation>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_23"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_8"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_AUTHOR_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_16"/>
+    <ns2:copyright_information>Copyright Â© 2011 Elsevier Ltd. All rights reserved.</ns2:copyright_information>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_AUTHOR_7"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_AUTHOR_2"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_AUTHOR_1"/>
+    <ns3:title>Mastectomy with immediate breast reconstruction after neoadjuvant chemotherapy and radiation therapy. A new option for patients with operable invasive breast cancer. Results of a 20 years single institution study.</ns3:title>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_6"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_AUTHOR_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_2"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_AUTHOR_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_17"/>
+    <rdfs:label>Mastectomy with immediate breast reconstruction after neoadjuvant chemotherapy and radiation therapy. A new option for patients with operable invasive breast cancer. Results of a 20 years single institution study. [pubmed:21843920]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_1"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_21"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_AUTHOR_9"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_11"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_7"/>
+    <ns3:identifier>pubmed:21843920</ns3:identifier>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_12"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_18"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_19"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_20"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_AUTHOR_5"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_15"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_5"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_22"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_AUTHOR_10"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_AUTHOR_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_3"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_MESH_HEADING_24"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21843920_JOURNAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21849406">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_15"/>
+    <rdfs:label>99mTc-Hydrazinonicotinamide epidermal growth factor-polyethylene glycol-quantum dot imaging allows quantification of breast cancer epidermal growth factor receptor expression and monitors receptor downregulation in response to cetuximab therapy. [pubmed:21849406]</rdfs:label>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_CHEMICAL_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_19"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_4"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_JOURNAL"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_7"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_AUTHOR_4"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_CHEMICAL_1"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_CHEMICAL_8"/>
+    <ns2:affiliation>Department of Nuclear Medicine, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea.</ns2:affiliation>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_9"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_12"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_CHEMICAL_3"/>
+    <ns3:title>99mTc-Hydrazinonicotinamide epidermal growth factor-polyethylene glycol-quantum dot imaging allows quantification of breast cancer epidermal growth factor receptor expression and monitors receptor downregulation in response to cetuximab therapy.</ns3:title>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_CHEMICAL_2"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_CHEMICAL_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_20"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_16"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_1"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_3"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_CHEMICAL_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_17"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_AUTHOR_3"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-17</ns2:article_date>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_CHEMICAL_6"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns3:identifier>pubmed:21849406</ns3:identifier>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_AUTHOR_1"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns3:language>eng</ns3:language>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_18"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_MESH_HEADING_6"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21849406_ABSTRACT"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21868188">
+    <ns3:language>eng</ns3:language>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_AUTHOR_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_11"/>
+    <ns2:copyright_information>Copyright Â© 2011 Elsevier Ltd. All rights reserved.</ns2:copyright_information>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_21"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_15"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_AUTHOR_1"/>
+    <rdfs:label>Therapeutic mammaplasties: full local control of breast cancer in one surgical stage with frozen section. [pubmed:21868188]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_17"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_AUTHOR_6"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_2"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_4"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_JOURNAL"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_AUTHOR_5"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_AUTHOR_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_AUTHOR_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_8"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_18"/>
+    <ns2:publication_type>EvaluationStudies</ns2:publication_type>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_AUTHOR_4"/>
+    <ns2:affiliation>Department of Surgical Oncology, Humanitas Centro Catanese di Oncologia, Via G. Da Bormida 64, 95100 Catania, Italy. francesco.caruso@ccocatania.it</ns2:affiliation>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_7"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_AUTHOR_10"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-24</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_10"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_20"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_3"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_13"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_14"/>
+    <ns3:title>Therapeutic mammaplasties: full local control of breast cancer in one surgical stage with frozen section.</ns3:title>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_AUTHOR_9"/>
+    <ns3:identifier>pubmed:21868188</ns3:identifier>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_12"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_16"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21868188_MESH_HEADING_19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21849400">
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_12"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_CHEMICAL_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_4"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_CHEMICAL_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_19"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_9"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_JOURNAL"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_12"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_11"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_15"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_14"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_16"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_2"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:publication_type>RandomizedControlledTrial</ns2:publication_type>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_15"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_11"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-17</ns2:article_date>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_CHEMICAL_2"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_13"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_18"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_17"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_9"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_ABSTRACT"/>
+    <ns3:title>The usefulness of a preoperative compact imager, a hand-held gamma-camera for breast cancer sentinel node biopsy: final results of a prospective double-blind, clinical study.</ns3:title>
+    <ns3:identifier>pubmed:21849400</ns3:identifier>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_5"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_1"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:affiliation>Nuclear Medicine Department, AP-HP HÃ´pital Tenon, Paris, France.</ns2:affiliation>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_3"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_1"/>
+    <rdfs:label>The usefulness of a preoperative compact imager, a hand-held gamma-camera for breast cancer sentinel node biopsy: final results of a prospective double-blind, clinical study. [pubmed:21849400]</rdfs:label>
+    <ns2:publication_type>ComparativeStudy</ns2:publication_type>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_5"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_13"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_10"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849400_MESH_HEADING_10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21846966">
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_19"/>
+    <ns3:title>Frequent loss of the BLID gene in early-onset breast cancer.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_12"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-12</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_15"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_3"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_13"/>
+    <ns3:identifier>pubmed:21846966</ns3:identifier>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_CHEMICAL_2"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_16"/>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_GRANT_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_AUTHOR_2"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_JOURNAL"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_CHEMICAL_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_10"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_21"/>
+    <rdfs:label>Frequent loss of the BLID gene in early-onset breast cancer. [pubmed:21846966]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_6"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_CHEMICAL_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_11"/>
+    <ns2:publication_type>ResearchSupport,N.I.H.,Extramural</ns2:publication_type>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_CHEMICAL_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_5"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_AUTHOR_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_17"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_7"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_CHEMICAL_5"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_CHEMICAL_6"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_AUTHOR_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_22"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_AUTHOR_5"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_AUTHOR_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_AUTHOR_3"/>
+    <ns2:affiliation>Department of Oncology, Georgetown University Medical Center, Washington, D.C., USA.</ns2:affiliation>
+    <ns2:owner>NLM</ns2:owner>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_20"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846966_MESH_HEADING_18"/>
+    <ns2:copyright_information>Copyright Â© 2011 S. Karger AG, Basel.</ns2:copyright_information>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21832271">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_4"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_AUTHOR_5"/>
+    <ns3:title>Low-carbohydrate diets, dietary approaches to stop hypertension-style diets, and the risk of postmenopausal breast cancer.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_12"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_13"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_AUTHOR_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_17"/>
+    <rdfs:label>Low-carbohydrate diets, dietary approaches to stop hypertension-style diets, and the risk of postmenopausal breast cancer. [pubmed:21832271]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_8"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_AUTHOR_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_6"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_2"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_18"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_5"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_7"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_JOURNAL"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_AUTHOR_3"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_15"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_16"/>
+    <ns2:other_id_source>NLM</ns2:other_id_source>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-10</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_3"/>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_GRANT_1"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_19"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns3:identifier>pubmed:21832271</ns3:identifier>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_1"/>
+    <ns2:other_id>PMC3166708 [Available on 09/15/12]</ns2:other_id>
+    <ns2:publication_type>ResearchSupport,N.I.H.,Extramural</ns2:publication_type>
+    <ns2:affiliation>Department of Nutrition, Simmons College, 300 The Fenway, Boston, MA 02115, USA. fung@simmons.edu</ns2:affiliation>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:publication_type>ComparativeStudy</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_10"/>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_GRANT_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832271_MESH_HEADING_11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21810868">
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_5"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_17"/>
+    <ns2:other_id_source>NLM</ns2:other_id_source>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_CHEMICAL_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_10"/>
+    <ns2:affiliation>Department of Breast and Endocrine Surgery, Tokai University School of Medicine, 143 Shimokasuya, Isehara, Kanagawa 259-1193, Japan. yu-ki@is.icc.u-tokai.ac.jp</ns2:affiliation>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_15"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_16"/>
+    <ns3:title>Post-marketing safety evaluation of S-1 in patients with inoperable or recurrent breast cancer: especially in patients treated with S-1 + trastuzumab.</ns3:title>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_AUTHOR_1"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_CHEMICAL_5"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_AUTHOR_6"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_CHEMICAL_2"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_CHEMICAL_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_1"/>
+    <rdfs:label>Post-marketing safety evaluation of S-1 in patients with inoperable or recurrent breast cancer: especially in patients treated with S-1 + trastuzumab. [pubmed:21810868]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_23"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_AUTHOR_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_AUTHOR_5"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_CHEMICAL_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_9"/>
+    <ns3:identifier>pubmed:21810868</ns3:identifier>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-02</ns2:article_date>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_CHEMICAL_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_20"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_13"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_AUTHOR_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_11"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_CHEMICAL_8"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_AUTHOR_8"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_AUTHOR_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_3"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_18"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_12"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_CHEMICAL_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_19"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_22"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_21"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_MESH_HEADING_2"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_AUTHOR_2"/>
+    <ns2:other_id>PMC3163436</ns2:other_id>
+    <ns3:language>eng</ns3:language>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21810868_JOURNAL"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21760589">
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_17"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_19"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_14"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_CHEMICAL_2"/>
+    <ns3:identifier>pubmed:21760589</ns3:identifier>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_20"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_15"/>
+    <ns3:language>eng</ns3:language>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_ABSTRACT"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_CHEMICAL_5"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_2"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_CHEMICAL_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_16"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_CHEMICAL_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_10"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_25"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_18"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_1"/>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_GRANT_1"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-18</ns2:article_date>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_23"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_4"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_5"/>
+    <rdfs:label>Functional genomics reveal that the serine synthesis pathway is essential in breast cancer. [pubmed:21760589]</rdfs:label>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_6"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_7"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_CHEMICAL_3"/>
+    <ns2:publication_type>ResearchSupport,N.I.H.,Extramural</ns2:publication_type>
+    <ns2:affiliation>Whitehead Institute for Biomedical Research, Nine Cambridge Center, Cambridge, Massachusetts 02142, USA.</ns2:affiliation>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_GRANT_2"/>
+    <ns2:publication_model>Electronic</ns2:publication_model>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_21"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_6"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_JOURNAL"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_12"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_26"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_11"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_9"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_17"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_7"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_27"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_18"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_16"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_24"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_2"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_10"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_12"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_15"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_MESH_HEADING_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_22"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21760589_AUTHOR_8"/>
+    <ns3:title>Functional genomics reveal that the serine synthesis pathway is essential in breast cancer.</ns3:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21832234">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_18"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_15"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_AUTHOR_6"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_ABSTRACT"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_23"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_AUTHOR_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_27"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_16"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_AUTHOR_12"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_CHEMICAL_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_6"/>
+    <ns2:affiliation>Institut Curie, Laboratoire d'OncogÃ©nÃ©tique, HÃ´pital RenÃ© Huguenin, 35 rue Dailly, Saint-Cloud, 92210, France.</ns2:affiliation>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_CHEMICAL_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_AUTHOR_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_AUTHOR_11"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_AUTHOR_5"/>
+    <ns3:title>Role of the focal adhesion protein kindlin-1 in breast cancer growth and lung metastasis.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_21"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_AUTHOR_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_19"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_24"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_5"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-10</ns2:article_date>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_4"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_CHEMICAL_5"/>
+    <ns3:identifier>pubmed:21832234</ns3:identifier>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_AUTHOR_8"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_CHEMICAL_3"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_CHEMICAL_4"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_JOURNAL"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_AUTHOR_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_22"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_12"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_26"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_CHEMICAL_2"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_AUTHOR_2"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_17"/>
+    <rdfs:label>Role of the focal adhesion protein kindlin-1 in breast cancer growth and lung metastasis. [pubmed:21832234]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_AUTHOR_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_25"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_MESH_HEADING_20"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21832234_AUTHOR_10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21852577">
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_GRANT_3"/>
+    <ns2:affiliation>Laser Microbeam and Medical Program, Beckman Laser Institute and Medical Clinic, University of California, Irvine, CA 92617, USA.</ns2:affiliation>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_AUTHOR_5"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_ABSTRACT"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:publication_type>ResearchSupport,N.I.H.,Extramural</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_MESH_HEADING_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_AUTHOR_7"/>
+    <ns2:other_id_source>NLM</ns2:other_id_source>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_AUTHOR_6"/>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_GRANT_5"/>
+    <ns3:title>Optical imaging of breast cancer oxyhemoglobin flare correlates with neoadjuvant chemotherapy response one day after starting treatment.</ns3:title>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_AUTHOR_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_MESH_HEADING_6"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_JOURNAL"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_MESH_HEADING_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_AUTHOR_8"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_AUTHOR_10"/>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_GRANT_1"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_AUTHOR_4"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns3:identifier>pubmed:21852577</ns3:identifier>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_MESH_HEADING_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_AUTHOR_2"/>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_GRANT_2"/>
+    <rdfs:label>Optical imaging of breast cancer oxyhemoglobin flare correlates with neoadjuvant chemotherapy response one day after starting treatment. [pubmed:21852577]</rdfs:label>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_AUTHOR_11"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns3:language>eng</ns3:language>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_MESH_HEADING_5"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:publication_type>ResearchSupport,U.S.Gov't,Non-P.H.S.</ns2:publication_type>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_AUTHOR_1"/>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_GRANT_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_MESH_HEADING_2"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-18</ns2:article_date>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_GRANT_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_AUTHOR_3"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21852577_CHEMICAL_1"/>
+    <ns2:other_id>PMC3167535 [Available on 02/29/12]</ns2:other_id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21834986">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_MESH_HEADING_6"/>
+    <ns2:publication_model>Electronic</ns2:publication_model>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_JOURNAL"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_MESH_HEADING_5"/>
+    <ns2:other_id_source>NLM</ns2:other_id_source>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_MESH_HEADING_4"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_CHEMICAL_2"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_AUTHOR_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_MESH_HEADING_1"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_MESH_HEADING_10"/>
+    <rdfs:label>What does matrix metalloproteinase-1 expression in patients with breast cancer really tell us? [pubmed:21834986]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_MESH_HEADING_7"/>
+    <ns2:affiliation>Department of Biomolecular Sciences, Section of Clinical Biochemistry, Unit of Cell Biology, University Carlo Bo of Urbino, I-61029 Urbino (PU), Italy. ferdinando.mannello@uniurb.it</ns2:affiliation>
+    <ns2:owner>NLM</ns2:owner>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_ABSTRACT"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-11</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_MESH_HEADING_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_MESH_HEADING_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_MESH_HEADING_3"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_CHEMICAL_3"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_MESH_HEADING_8"/>
+    <ns3:identifier>pubmed:21834986</ns3:identifier>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21834986_CHEMICAL_1"/>
+    <ns2:other_id>PMC3169471</ns2:other_id>
+    <ns3:language>eng</ns3:language>
+    <ns3:title>What does matrix metalloproteinase-1 expression in patients with breast cancer really tell us?</ns3:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21843923">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_4"/>
+    <ns2:publication_type>ComparativeStudy</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_21"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_18"/>
+    <ns3:title>Presence of symptoms and timing of surgery do not affect the prognosis of patients with primary metastatic breast cancer.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_11"/>
+    <ns2:copyright_information>Copyright Â© 2011 Elsevier Ltd. All rights reserved.</ns2:copyright_information>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_16"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_AUTHOR_1"/>
+    <rdfs:label>Presence of symptoms and timing of surgery do not affect the prognosis of patients with primary metastatic breast cancer. [pubmed:21843923]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_19"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_15"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_AUTHOR_5"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_12"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_JOURNAL"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_6"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_AUTHOR_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_5"/>
+    <ns2:affiliation>Department of Surgery, MÃ¡xima Medisch Centrum, Postbus 7777, 5500 MB Veldhoven, The Netherlands. j.ruiterkamp@mmc.nl</ns2:affiliation>
+    <ns3:identifier>pubmed:21843923</ns3:identifier>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_20"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_17"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_13"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_ABSTRACT"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_AUTHOR_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_1"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_AUTHOR_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_AUTHOR_6"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21843923_MESH_HEADING_14"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-16</ns2:article_date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21847123">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_21"/>
+    <ns3:identifier>pubmed:21847123</ns3:identifier>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_CHEMICAL_11"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_AUTHOR_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_22"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_16"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_AUTHOR_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_20"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_CHEMICAL_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_5"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_AUTHOR_4"/>
+    <ns3:title>Targeting both Notch and ErbB-2 signalling pathways is required for prevention of ErbB-2-positive breast tumour recurrence.</ns3:title>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_JOURNAL"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_19"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_9"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_AUTHOR_2"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_ABSTRACT"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_CHEMICAL_1"/>
+    <ns2:affiliation>Molecular Biology Program, Loyola University Chicago, 2160 South First Avenue, Maywood, IL 60153, USA.</ns2:affiliation>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_AUTHOR_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_4"/>
+    <rdfs:label>Targeting both Notch and ErbB-2 signalling pathways is required for prevention of ErbB-2-positive breast tumour recurrence. [pubmed:21847123]</rdfs:label>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_AUTHOR_3"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_CHEMICAL_8"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_CHEMICAL_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_18"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-16</ns2:article_date>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_AUTHOR_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_12"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_AUTHOR_6"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_CHEMICAL_4"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_CHEMICAL_6"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_10"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_CHEMICAL_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_14"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_CHEMICAL_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_3"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_17"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_13"/>
+    <ns2:other_id_source>NLM</ns2:other_id_source>
+    <ns2:other_id>PMC3171020 [Available on 09/06/12]</ns2:other_id>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_7"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_CHEMICAL_5"/>
+    <ns2:publication_type>ResearchSupport,U.S.Gov't,Non-P.H.S.</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_MESH_HEADING_15"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21847123_CHEMICAL_3"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns3:language>eng</ns3:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21835824">
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_MESH_HEADING_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_MESH_HEADING_9"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-10</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_MESH_HEADING_1"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_AUTHOR_1"/>
+    <ns3:title>Quantification of cold spots caused by geometrical uncertainty in field-in-field techniques for whole breast radiotherapy.</ns3:title>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_AUTHOR_2"/>
+    <rdfs:label>Quantification of cold spots caused by geometrical uncertainty in field-in-field techniques for whole breast radiotherapy. [pubmed:21835824]</rdfs:label>
+    <ns3:identifier>pubmed:21835824</ns3:identifier>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:affiliation>Department of Radiation Oncology, St Luke's International Hospital, 9-1, Akashicho, Chuoh-ku, Tokyo 104-8560, Japan. naokinak@luke.or.jp</ns2:affiliation>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_JOURNAL"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_MESH_HEADING_2"/>
+    <ns2:publication_type>EvaluationStudies</ns2:publication_type>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_AUTHOR_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_MESH_HEADING_6"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_ABSTRACT"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_AUTHOR_5"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_MESH_HEADING_8"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_AUTHOR_3"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_MESH_HEADING_3"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_MESH_HEADING_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835824_MESH_HEADING_5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21821601">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_20"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_18"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_27"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_17"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_7"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_AUTHOR_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_9"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_JOURNAL"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_AUTHOR_4"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-04</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_24"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_AUTHOR_7"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_CHEMICAL_4"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_13"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_CHEMICAL_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_22"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_CHEMICAL_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_15"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_11"/>
+    <ns3:identifier>pubmed:21821601</ns3:identifier>
+    <rdfs:label>Updated longitudinal data on acute exacerbation of chronic hepatitis B in patients with breast cancer receiving anthracycline-based adjuvant chemotherapy: therapeutic vs. pre-emptive use of lamivudine. [pubmed:21821601]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_21"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_12"/>
+    <ns3:title>Updated longitudinal data on acute exacerbation of chronic hepatitis B in patients with breast cancer receiving anthracycline-based adjuvant chemotherapy: therapeutic vs. pre-emptive use of lamivudine.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_19"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_4"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_CHEMICAL_3"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_26"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_14"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_CHEMICAL_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_AUTHOR_1"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_CHEMICAL_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_25"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_10"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_CHEMICAL_7"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_AUTHOR_3"/>
+    <ns2:owner>NLM</ns2:owner>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_AUTHOR_5"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_1"/>
+    <ns2:affiliation>Department of Oncology, Asan Medical Center, 86, Asanbyeongwon-gil, Songpa-gu, Seoul 138-736, Korea.</ns2:affiliation>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_16"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_2"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_23"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21821601_MESH_HEADING_8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21841316">
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_8"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_12"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_7"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_ABSTRACT"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:other_id>PMC3171102</ns2:other_id>
+    <ns2:affiliation>Centre de Recherche en CancÃ©rologie de Marseille, INSERM UMR U891, Marseille, France. mamessier@ciml.univ-mrs.fr</ns2:affiliation>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_13"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_6"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_14"/>
+    <ns3:identifier>pubmed:21841316</ns3:identifier>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_JOURNAL"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_1"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_12"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_10"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_16"/>
+    <ns3:title>Human breast cancer cells enhance self tolerance by promoting evasion from NK cell antitumor immunity.</ns3:title>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_CHEMICAL_2"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_10"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_15"/>
+    <ns2:citation_subset>AIM</ns2:citation_subset>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_11"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_15"/>
+    <rdfs:label>Human breast cancer cells enhance self tolerance by promoting evasion from NK cell antitumor immunity. [pubmed:21841316]</rdfs:label>
+    <ns2:other_id_source>NLM</ns2:other_id_source>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_8"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_CHEMICAL_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_14"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_AUTHOR_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_3"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-15</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21841316_MESH_HEADING_9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21844363">
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <rdfs:label>Molecular serum portraits in patients with primary breast cancer predict the development of distant metastases. [pubmed:21844363]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_MESH_HEADING_9"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_JOURNAL"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_CHEMICAL_1"/>
+    <ns2:other_id_source>NLM</ns2:other_id_source>
+    <ns2:affiliation>Department of Immunotechnology, CREATE Health, Lund University, BMC D13, SE-22184 Lund, Sweden.</ns2:affiliation>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_AUTHOR_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_MESH_HEADING_1"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_AUTHOR_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_AUTHOR_9"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_AUTHOR_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_AUTHOR_12"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_AUTHOR_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_MESH_HEADING_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_MESH_HEADING_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_AUTHOR_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_MESH_HEADING_13"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_AUTHOR_5"/>
+    <ns2:other_id>PMC3161545</ns2:other_id>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_AUTHOR_2"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-15</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_MESH_HEADING_7"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_MESH_HEADING_4"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns3:title>Molecular serum portraits in patients with primary breast cancer predict the development of distant metastases.</ns3:title>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_ABSTRACT"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_AUTHOR_8"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_MESH_HEADING_5"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_AUTHOR_7"/>
+    <ns3:identifier>pubmed:21844363</ns3:identifier>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_MESH_HEADING_12"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_MESH_HEADING_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_MESH_HEADING_2"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_AUTHOR_10"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_AUTHOR_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21844363_MESH_HEADING_10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21829198">
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:affiliation>Mumbai Cancer Registry, Indian Cancer Society, Mumbai, India. preet.kaur.dhillon@gmail.com</ns2:affiliation>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_6"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_JOURNAL"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_12"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-09</ns2:article_date>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_13"/>
+    <ns3:title>Trends in breast, ovarian and cervical cancer incidence in Mumbai, India over a 30-year period, 1976-2005: an age-period-cohort analysis.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_5"/>
+    <ns2:other_id_source>NLM</ns2:other_id_source>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_14"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_8"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_AUTHOR_4"/>
+    <rdfs:label>Trends in breast, ovarian and cervical cancer incidence in Mumbai, India over a 30-year period, 1976-2005: an age-period-cohort analysis. [pubmed:21829198]</rdfs:label>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_AUTHOR_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_11"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_AUTHOR_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_AUTHOR_5"/>
+    <ns2:other_id>PMC3188937 [Available on 08/23/12]</ns2:other_id>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_9"/>
+    <ns2:publication_type>ResearchSupport,N.I.H.,Extramural</ns2:publication_type>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_GRANT_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21829198_MESH_HEADING_2"/>
+    <ns3:identifier>pubmed:21829198</ns3:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21862633">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_2"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_AUTHOR_5"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_AUTHOR_8"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_CHEMICAL_4"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_8"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_AUTHOR_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_7"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_CHEMICAL_1"/>
+    <ns2:affiliation>Department of Molecular Oncology, GÃ¶ttingen Center for Molecular Biosciences, Department of Medical Statistics, University Medical Center GÃ¶ttingen, Germany.</ns2:affiliation>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_CHEMICAL_6"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_AUTHOR_4"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_11"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_CHEMICAL_3"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-23</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_15"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_AUTHOR_7"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_AUTHOR_6"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_6"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_JOURNAL"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_AUTHOR_12"/>
+    <ns3:title>Estrogen-dependent gene transcription in human breast cancer cells relies upon proteasome-dependent monoubiquitination of histone H2B.</ns3:title>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_AUTHOR_9"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_AUTHOR_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_AUTHOR_3"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_CHEMICAL_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_12"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_14"/>
+    <ns2:copyright_information>Â©2011 AACR.</ns2:copyright_information>
+    <ns3:identifier>pubmed:21862633</ns3:identifier>
+    <rdfs:label>Estrogen-dependent gene transcription in human breast cancer cells relies upon proteasome-dependent monoubiquitination of histone H2B. [pubmed:21862633]</rdfs:label>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_CHEMICAL_5"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_AUTHOR_10"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_CHEMICAL_7"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21862633_MESH_HEADING_4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21846823">
+    <ns2:affiliation>CNRS, IPBS (Institut de Pharmacologie et de Biologie Structurale), INSERM, U563, Centre de Physiopathologie de Toulouse-Purpan, Toulouse, France.</ns2:affiliation>
+    <ns3:title>Human solid tumors contain high endothelial venules: association with T- and B-lymphocyte infiltration and favorable prognosis in breast cancer.</ns3:title>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_AUTHOR_1"/>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_JOURNAL"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_MESH_HEADING_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_AUTHOR_2"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_AUTHOR_3"/>
+    <ns2:copyright_information>Â©2011 AACR.</ns2:copyright_information>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_AUTHOR_5"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_AUTHOR_4"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_AUTHOR_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_MESH_HEADING_2"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_ABSTRACT"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-16</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_MESH_HEADING_6"/>
+    <rdfs:label>Human solid tumors contain high endothelial venules: association with T- and B-lymphocyte infiltration and favorable prognosis in breast cancer. [pubmed:21846823]</rdfs:label>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_MESH_HEADING_8"/>
+    <ns3:identifier>pubmed:21846823</ns3:identifier>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_MESH_HEADING_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_MESH_HEADING_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_MESH_HEADING_10"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_AUTHOR_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_MESH_HEADING_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_MESH_HEADING_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_MESH_HEADING_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_MESH_HEADING_11"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21846823_AUTHOR_7"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21849404">
+    <rdfs:label>Human dosimetry and preliminary tumor distribution of 18F-fluoropaclitaxel in healthy volunteers and newly diagnosed breast cancer patients using PET/CT. [pubmed:21849404]</rdfs:label>
+    <ns2:publication_type>ResearchSupport,N.I.H.,Extramural</ns2:publication_type>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_AUTHOR_2"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_AUTHOR_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_AUTHOR_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_MESH_HEADING_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_MESH_HEADING_7"/>
+    <ns3:title>Human dosimetry and preliminary tumor distribution of 18F-fluoropaclitaxel in healthy volunteers and newly diagnosed breast cancer patients using PET/CT.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_MESH_HEADING_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_MESH_HEADING_12"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:affiliation>Molecular Imaging Program, Center for Cancer Research/National Cancer Institute/National Institutes of Health, Bethesda, Maryland 20892, USA.</ns2:affiliation>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_AUTHOR_3"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-17</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_MESH_HEADING_3"/>
+    <ns2:grant rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_GRANT_1"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_JOURNAL"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_AUTHOR_8"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_AUTHOR_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_MESH_HEADING_5"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_ABSTRACT"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_MESH_HEADING_10"/>
+    <ns3:identifier>pubmed:21849404</ns3:identifier>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_MESH_HEADING_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_AUTHOR_4"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_CHEMICAL_4"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_CHEMICAL_2"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_AUTHOR_5"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_CHEMICAL_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_AUTHOR_7"/>
+    <ns2:chemical rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_CHEMICAL_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_AUTHOR_9"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_MESH_HEADING_2"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_MESH_HEADING_9"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21849404_MESH_HEADING_4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21811252">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_9"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_1"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <rdfs:label>Joint effects of nulliparity and other breast cancer risk factors. [pubmed:21811252]</rdfs:label>
+    <ns3:title>Joint effects of nulliparity and other breast cancer risk factors.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_7"/>
+    <ns2:affiliation>Department of Public Health and Community Medicine, Faculty of Medicine, Norwegian University of Science and Technology, MTFS, Trondheim N-7491, Norway. signe.opdahl@ntnu.no</ns2:affiliation>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_AUTHOR_5"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_AUTHOR_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_5"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-02</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_12"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_3"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_13"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns3:language>eng</ns3:language>
+    <ns2:other_id>PMC3188938 [Available on 08/23/12]</ns2:other_id>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_14"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_AUTHOR_1"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_AUTHOR_2"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_ABSTRACT"/>
+    <ns3:identifier>pubmed:21811252</ns3:identifier>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_JOURNAL"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_2"/>
+    <ns2:other_id_source>NLM</ns2:other_id_source>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_MESH_HEADING_6"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21811252_AUTHOR_3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21824742">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_4"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-06</ns2:article_date>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_JOURNAL"/>
+    <rdfs:label>Prognostic value of breast cancer subtypes on breast cancer specific survival, distant metastases and local relapse rates in conservatively managed early stage breast cancer: a retrospective clinical study. [pubmed:21824742]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_10"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_12"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_23"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_16"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_14"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_21"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns3:language>eng</ns3:language>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_18"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_5"/>
+    <ns2:affiliation>Radiation Oncology Department, CROB, Via Padre Pio 1, 85028 Rionero in Vulture (PZ), Italy. pierosanpaolo@yahoo.it</ns2:affiliation>
+    <ns2:copyright_information>Copyright Â© 2011 Elsevier Ltd. All rights reserved.</ns2:copyright_information>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_6"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_AUTHOR_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_AUTHOR_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_19"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_22"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_15"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_20"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_3"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns3:title>Prognostic value of breast cancer subtypes on breast cancer specific survival, distant metastases and local relapse rates in conservatively managed early stage breast cancer: a retrospective clinical study.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_9"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_MESH_HEADING_17"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21824742_ABSTRACT"/>
+    <ns3:identifier>pubmed:21824742</ns3:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21835398">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_16"/>
+    <ns2:publication_type>ComparativeStudy</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_2"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_AUTHOR_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_11"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_10"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_ABSTRACT"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_JOURNAL"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_8"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_13"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_AUTHOR_5"/>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_12"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_17"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_AUTHOR_9"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_AUTHOR_1"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_AUTHOR_4"/>
+    <ns2:copyright_information>Copyright Â© 2011 The Royal College of Radiologists. Published by Elsevier Ltd. All rights reserved.</ns2:copyright_information>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_AUTHOR_2"/>
+    <ns3:title>Ultrasound elastography as an adjuvant to conventional ultrasound in the preoperative assessment of axillary lymph nodes in suspected breast cancer: a pilot study.</ns3:title>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_9"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_AUTHOR_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_5"/>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_14"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_AUTHOR_8"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns3:language>eng</ns3:language>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_6"/>
+    <ns3:identifier>pubmed:21835398</ns3:identifier>
+    <rdfs:label>Ultrasound elastography as an adjuvant to conventional ultrasound in the preoperative assessment of axillary lymph nodes in suspected breast cancer: a pilot study. [pubmed:21835398]</rdfs:label>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_3"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_MESH_HEADING_15"/>
+    <ns2:affiliation>Department of Radiology, Cambridge Breast Unit, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK. kathryn.taylor@addenbrookes.nhs.uk</ns2:affiliation>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21835398_AUTHOR_7"/>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-11</ns2:article_date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bio2rdf.org/pubmed:21811256">
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_2"/>
+    <ns2:status>MEDLINE</ns2:status>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_AUTHOR_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_AUTHOR_6"/>
+    <ns2:publication_type>EvaluationStudies</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_3"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_AUTHOR_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_6"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_7"/>
+    <ns3:identifier>pubmed:21811256</ns3:identifier>
+    <void:inDataset rdf:resource="http://bio2rdf.org/bio2rdf_dataset:bio2rdf-pubmed-20120904"/>
+    <ns2:citation_subset>IM</ns2:citation_subset>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_5"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_1"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_9"/>
+    <rdf:type rdf:resource="http://bio2rdf.org/pubmed_vocabulary:PubMedRecord"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_11"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_15"/>
+    <ns2:publication_type>ResearchSupport,Non-U.S.Gov't</ns2:publication_type>
+    <ns2:affiliation>Pathology Consultation Service, Clinical Trials and Practice Support Division, Center for Cancer Control and Information Services, National Cancer Center, 5-1-1, Tsukiji, Chuo-ku, Tokyo 104-0045, Japan. thasebe@ncc.go.jp</ns2:affiliation>
+    <ns2:journal rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_JOURNAL"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_AUTHOR_2"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_10"/>
+    <ns3:language>eng</ns3:language>
+    <ns2:article_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-02</ns2:article_date>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_13"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_4"/>
+    <ns2:other_id>PMC3188933 [Available on 08/23/12]</ns2:other_id>
+    <rdfs:label>Modified primary tumour/vessel tumour/nodal tumour classification for patients with invasive ductal carcinoma of the breast. [pubmed:21811256]</rdfs:label>
+    <ns2:other_id_source>NLM</ns2:other_id_source>
+    <ns3:title>Modified primary tumour/vessel tumour/nodal tumour classification for patients with invasive ductal carcinoma of the breast.</ns3:title>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_AUTHOR_7"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_12"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_AUTHOR_1"/>
+    <ns2:publication_model>Print-Electronic</ns2:publication_model>
+    <ns3:abstract rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_ABSTRACT"/>
+    <ns2:owner>NLM</ns2:owner>
+    <ns2:publication_type>JournalArticle</ns2:publication_type>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_14"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_AUTHOR_8"/>
+    <ns2:author rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_AUTHOR_4"/>
+    <ns2:mesh_heading rdf:resource="http://bio2rdf.org/pubmed_resource:21811256_MESH_HEADING_8"/>
+  </rdf:Description>
+</rdf:RDF>

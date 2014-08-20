@@ -1,0 +1,132 @@
+<form action="{{ url_for('work') }}" method="POST">
+
+	<!-- <p>{{form.datafromendpoint}} Data from endpoint (otherwise from
+		local copy)</p> -->
+
+	<table>
+		<tr>
+			<td><label>Select SPARQL endpoint:</label></td>
+			<td>{{form.endpoints(onchange="this.form.submit()")}}</td>
+			<td><a href="{{config['ENDPOINTS'][form.endpoints.data]}}"
+				target="_blank">{{config['ENDPOINTS'][form.endpoints.data]}}</a></td>
+		</tr>
+	</table>
+
+	Query: <br /> {{form.query(cols="20", rows="15")|safe}} <br /> <input
+		type=submit name=btn id=my_submit value="Send Query"> <br />
+
+
+	<br />
+
+
+	<table style="width: 100%;">
+		<tr>
+			<td>{% if facets is defined %} {% if facets|length > 0 %}
+				Properties
+				<table>
+
+					{% for i in facets %}
+					<tr>
+						<td style="padding: 0 5px 0 0;"><a href="{{ i.facet }}"
+							target="_blank">{{ i.label }}</a></td>
+						<td style="color: #E0E0E0">{{ i.count }}</td>
+					</tr>
+					{% endfor %}
+				</table>{% endif %} {% endif %}
+			</td>
+			<td>{% if results is defined %} {% if results|length > 0 %}
+				Ranked results
+				<table>
+					{% for i in results %}
+					<tr>
+						<td style="padding: 0 5px 0 0;"><a href="{{ i.uri }}"
+							style="color: #E0E0E0;" target="_blank">{{ i.count }})</a></td>
+						<td style="padding: 0 5px 0 0;"><a
+							href="{{ url_for('entity', uri=i.uri) }}" target="_blank">{{
+								i.label }}</a></td>
+						<td style="color: #E0E0E0">{{ i.ranking }}</td>
+					</tr>
+					{% endfor %}
+				</table> {% else %} No results. {% endif %} {% endif %}
+			</td>
+
+			<td style="padding: 0 0 0 15px;">{% if results is defined %} {%
+				if results|length > 0 %} <input type=submit name=btn2
+				id=sim_my_submit value="(re-)compute similarity"> <br />
+				{% if not url is none %} {% if url|length > 0 %}
+				Similarity
+				Graph 
+				<div
+					style="text-align: center; background-color: #FCFCFF; border: 2px solid Navy;"
+					class="outer">
+					<div style="vertical-align: top; padding-top: 0px; top: auto"
+						id="graph" class="graph"></div>
+					<a style="display: inline-block; font-size: small;" id="foo">Open
+						in new window</a>
+				</div>{% endif %}{% endif %}{% endif %} {% endif %}
+			</td>
+
+
+		</tr>
+	</table>
+</form>
+
+
+<br />
+
+
+<span style="color: red">{{error}}</span>
+<br />
+<br />
+
+{% if url is defined %}
+<script type="application/x-javascript"
+	src="{{ url_for('.static',filename='js/similarity_graph.js') }}"></script>
+<script>
+	$.ajaxSetup({
+		cache : false
+	});
+
+	$("#graph").empty();
+
+	$.getJSON('{{url}}', function(graph) {
+		drawSimilarityGraph(graph, 'graph', 400, 400);
+	});
+
+	var el = document.getElementById('foo');
+	el.onclick = showFoo;
+
+	function showFoo() {
+		var newWindow = window.open('', 'popup', 'height=1000, width=1000');
+
+		newWindow.document.getElementsByTagName('head')[0].innerHTML = '';
+		newWindow.document.getElementsByTagName('body')[0].innerHTML = '';
+
+		jQuery(newWindow.document.head)
+				.append(
+						'<link rel="stylesheet" href="http://contextualisation.mash-it.net/static/css/bootstrap.css" />');
+		jQuery(newWindow.document.head)
+				.append(
+						'<link rel="stylesheet" href="http://contextualisation.mash-it.net/static/css/style.css" />');
+		jQuery(newWindow.document.head)
+				.append(
+						'<script type="application/x-javascript" src="http://contextualisation.mash-it.net/static/js/d3.v3.js" />');
+		jQuery(newWindow.document.head)
+				.append(
+						'<script type="application/x-javascript" src="http://contextualisation.mash-it.net/static/js/similarity_graph.js" />');
+
+		var newWindowRoot = d3.select(newWindow.document.body).append("div")
+				.attr("class", "graph").attr("id", "graph");
+
+		newWindow.document.title = 'Similarity Graph';
+
+		d3.json('{{url}}', function(graph) {
+			drawSimilarityGraph(graph, newWindowRoot, 1000, 1000);
+		});
+
+		if (window.focus) {
+			newWindow.focus()
+		}
+	}
+</script>
+{% endif %}

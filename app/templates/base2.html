@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+<title>Contextualisation</title>
+<link rel="shortcut icon" type="image/png" href="static/img/rdf.png">
+
+
+<link rel="stylesheet"
+	href="{{ url_for('.static',filename='css/bootstrap.css') }}" />
+<link rel="stylesheet"
+	href="{{ url_for('.static',filename='css/commit.css') }}" />
+<link rel="stylesheet"
+	href="{{ url_for('.static',filename='css/style.css') }}" />
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="{{ url_for('.static',filename='js/d3.v3.js') }}"></script>
+
+<meta charset="UTF-8">
+
+</head>
+
+<body>
+
+	<div class="container">
+		<div class="row">
+			<div class="span12">
+				<div class="page-header">
+					<h1>
+						<small>Single entity: {{uri}}</small>
+					</h1>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="span12"></div>
+		</div>
+		{% if facetsentity is defined %} {% if facetsentity|length > 0 %}
+		Properties
+		<table>
+
+			{% for i in facetsentity %}
+			<tr>
+
+				<td style="padding: 0 5px 0 0; color: #E0E0E0">{{ i.occurrences
+					}}</td>
+				<td style="padding: 0 5px 0 0;"><a href="{{ i.facetproperty }}"
+					target="_blank">{{ i.prefixed_facetproperty }}</a></td>
+				<td>{% if i.prefixed_facetobject|length > 0 %} <a
+					href="{{ i.facetobject }}" target="_blank">{{
+						i.prefixed_facetobject }}</a> {% else %} {{ i.facetobject }} {% endif
+					%}
+
+				</td>
+			</tr>
+			{% endfor %}
+		</table>
+		{% endif %} {% endif %}
+		<div class="row">
+			<div class="span12">
+				<hr>
+				<p>
+					Copyright (c) 2013, <a href="http://www.few.vu.nl/~kdr250/">Kathrin
+						Dentler</a>, VU University Amsterdam, for <a
+						href="http://eurecaproject.eu/">EURECA</a> (Enabling information
+					re-Use by linking clinical REsearch and Care)<br /> Powered by <a
+						href="http://flask.pocoo.org/">Flask</a>, <a
+						href="http://d3js.org/">D3.js</a>, <a href="http://prefix.cc/">prefix.cc</a>
+					and <a href="http://getbootstrap.com/">Bootstrap</a>.
+				</p>
+			</div>
+		</div>
+	</div>
+
+	<!-- 	<script type="application/x-javascript">
+        $(document).ready(function() {
+            $("#loading").toggle();
+            $("#noresponse").toggle();
+        });
+	</script> -->
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push([ '_setAccount', 'UA-8515069-8' ]);
+		_gaq.push([ '_trackPageview' ]);
+
+		(function() {
+			var ga = document.createElement('script');
+			ga.type = 'text/javascript';
+			ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+					: 'http://www')
+					+ '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</body>
+</html>
